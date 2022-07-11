@@ -1,2 +1,13 @@
 # TWIL
-Contains things i explore and learn from everyday. 
+Will add notes and references to things that i've learn on daily basis
+
+
+## References:
+
+### Maths
+
+Contains links of most math explorables which are easy to understand.
+
+[Linear Algebra](https://www.youtube.com/playlist?list=PLg-OiIIbfPj3Wldtb0QfV0Yse8tL2nLGm)
+
+
